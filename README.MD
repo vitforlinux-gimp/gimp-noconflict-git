@@ -16,6 +16,7 @@ uso:
 ```
 git clone https://github.com/vitforlinux-gimp/gimp-noconflict-git
 cd gimp-noconflict-git
-makepkg -s```
+makepkg -s
+```
 
 
