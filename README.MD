@@ -13,5 +13,8 @@ Lo scopo è avere un pacchetto simile a Gimp-develop-git ma più aggiornato, ma 
 Peccato che la versione risulta un po'strana,
 
 uso:
+git clone https://github.com/vitforlinux-gimp/gimp-noconflict-git
+cd gimp-noconflict-git
+makepkg -s
 
 
