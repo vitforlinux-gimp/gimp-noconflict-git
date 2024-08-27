@@ -11,3 +11,7 @@ Una versione sperimentale di PKGBUILD che è un incrocio del PKGBUILD di gimp-de
 Lo scopo è avere un pacchetto simile a Gimp-develop-git ma più aggiornato, ma che permette di installare anche Gimp 2.10.
 
 Peccato che la versione risulta un po'strana,
+
+uso:
+
+
