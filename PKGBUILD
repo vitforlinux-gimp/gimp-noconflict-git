@@ -61,6 +61,7 @@ optdepends=('gutenprint: for sophisticated printing only as gimp has built-in cu
             )
 source=('git+https://gitlab.gnome.org/GNOME/gimp.git'
         'linux.gpl')
+conflicts=('gimp-git')
 sha512sums=('SKIP'
             '6f33d57f242fa8ce04b65e06a712bd54677306a45b22cb853fbe348089cd4673bd4ed91073074fe067166fe8951c370f8bbbc386783e3ed5170d52e9062666fe')
 
