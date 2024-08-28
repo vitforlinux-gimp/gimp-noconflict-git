@@ -76,7 +76,7 @@ build() {
   meson "${srcdir}/${_pkgname}"\
         "${srcdir}/build"\
         --prefix=/usr \
-        -Dbug-report-url='https://github.com/bartoszek/AUR-gimp-git/issues'
+        -Dbug-report-url='https://github.com/vitforlinux-gimp/gimp-noconflict-git/issues'
   export NINJA_STATUS="[%p | %f<%r<%u | %cbps ] "
 # shellcheck disable=SC2046 # allow MAKEFLAGS to split when passing multiple flags.
   ninja $(grep -oP -- '-+[A-z]+ ?[0-9]*'<<<"${MAKEFLAGS:--j1}") -C "${srcdir}/build"
