@@ -1,6 +1,6 @@
 An experimental version of PKGBUILD that is a cross between the PKGBUILD of gimp-develop-git and that of gimp-git from the archlinuxCN repo.
 
-The aim is to have a package similar to Gimp-develop-git but more up-to-date, but which also allows you to install Gimp 2.10.
+The aim is to have a package similar to Gimp-develop-git, more up-to-date, but which also allows you to install Gimp 2.10.
 
 
 Too bad that the version is a bit strange.
