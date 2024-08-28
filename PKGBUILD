@@ -4,6 +4,8 @@
 # Contributor: Iru Cai <mytbk920423@gmail.com>
 # Contributor: Alexander Hunziker <alex.hunziker@gmail.com>
 # Contributor: Alessio Biancalana <dottorblaster@gmail.com>
+# Part of code from https://github.com/archlinuxcn/repo/tree/master/archlinuxcn/gimp-git
+# Part of code from https://aur.archlinux.org/packages/gimp-develop-git
 
 pkgname=gimp-noconflict-git
 _pkgname=${pkgname%-noconflict-git}
